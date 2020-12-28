@@ -40,3 +40,9 @@
 	    $("#preloader").on(500).fadeOut();
 	    $(".preloader").on(600).fadeOut("slow");
 	});
+
+
+
+	$(window).on('load', function() {
+        $('.venobox').venobox();
+    });
