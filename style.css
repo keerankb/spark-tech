@@ -2313,6 +2313,9 @@ RESPONSIVE
 
 
 
+
+
+
 /* home-pg-services */
 
 .our-services-home {
@@ -2452,3 +2455,11 @@ RESPONSIVE
 }
 
 /* about-us-recent-projects */
+
+
+
+
+/* projects deatils page */ 
+.shop-desc ul li {
+    color: grey;
+}
